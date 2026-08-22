@@ -14,7 +14,7 @@ A curated collection of my daily LeetCode solutions, automatically synced and or
 ### 🛠️ Tech & Tools
 * **Platform:** [LeetCode](https://leetcode.com/)
 * **Sync Tool:** [LeetSync](https://github.com/LeetSync/LeetSync)
-* **Languages:** C++
+* **Languages:** C++ / Python
 
 ---
 
